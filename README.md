@@ -4,6 +4,9 @@
 Le terme « socialisateur » désigne un agent, une action ou un contexte qui favorise le développement des compétences sociales et relationnelles d'un individu. Cela peut être une personne, un groupe, un lieu ou une activité permettant l'interaction et la communication entre les membres d'une société.
 Les socialisateurs contribuent à l'épanouissement personnel et collectif en aidant chacun à s'adapter aux normes et valeurs du groupe, ainsi qu'à se sentir intégré et accepté parmi ses pairs. Ils jouent un rôle clé dans le processus de socialisation tout au long de la vie.
 
+### Becode Student
+*I'm a trainee at becode Liège and I'm looking for an internship starting December 4th 2023.*
+
 
 <!--
 **cedricwietkin/cedricwietkin** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
